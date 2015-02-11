@@ -1,0 +1,11 @@
+{
+  "require": {
+    "symfony/http-foundation": "2.6.3"
+  },
+  "autoload":{
+    "psr-4": {
+      "Itp\\Base\\": "Itp/Base",
+      "Itp\\Music\\": "Itp/Music"
+    }
+  }
+}

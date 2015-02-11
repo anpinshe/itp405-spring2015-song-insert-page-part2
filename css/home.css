@@ -1,0 +1,42 @@
+.mini-layout {
+    font-family: Georgia;
+    margin-bottom: 20px;
+    padding: 9px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 500px;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 2px rgba(0,0,0,.075);
+    background-color: #dceaf4;
+    
+}
+
+.mini-layout-body {
+    background-color: #ccccff;
+    margin: 0 auto;
+    width: 70%;
+    height: 500px;
+    border-radius: 3px;
+}
+.mini-center{
+    width:100%;
+    height:500px;
+    margin:auto;
+    
+}
+form{
+    height:40%;
+    margin: auto;
+}
+p{
+    font-size: large;
+    color: dimgray;
+}
+.table th{
+    text-align: right;
+    width: 35%;
+}
+.table td
+{
+    text-align: center;
+}
